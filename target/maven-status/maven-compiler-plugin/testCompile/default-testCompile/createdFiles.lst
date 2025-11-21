@@ -1,0 +1,4 @@
+com\bds\library\service\AuthorServiceTest.class
+com\bds\library\service\BookServiceTest.class
+com\bds\library\repository\AuthorRepositoryTest.class
+com\bds\library\repository\BookRepositoryTest.class
